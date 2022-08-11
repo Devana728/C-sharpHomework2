@@ -1,0 +1,15 @@
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\bin\Debug\net6.0\Task4.exe
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\bin\Debug\net6.0\Task4.deps.json
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\bin\Debug\net6.0\Task4.dll
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\bin\Debug\net6.0\Task4.pdb
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\obj\Debug\net6.0\Task4.dll
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\obj\Debug\net6.0\refint\Task4.dll
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\obj\Debug\net6.0\Task4.pdb
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+I:\GEEKBRAINS\3. Языки программирования\seminar2\ДЗ\Task4\obj\Debug\net6.0\ref\Task4.dll
